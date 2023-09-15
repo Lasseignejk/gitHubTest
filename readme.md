@@ -1,3 +1,3 @@
-blah blah blah
+# Readme
 
-this is my edits -- practicing push/pull
+Let's practice pushing and pulling!
